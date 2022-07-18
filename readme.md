@@ -38,7 +38,7 @@ Run the serverless function as follows:
 4. (optional) update project name
 5. press `Deploy`
 6. create webhook via Nylas Dashboard, say `message.updated`, ensure to add the deployed url (`callback_url`)
-7. trigger webhook by starring a message ([here is a list](https://vercel.com/new) of `message.updated` triggers)
+7. trigger webhook by starring a message ([here is a list](https://developer.nylas.com/docs/developer-tools/webhooks/available-webhooks/#message-updated-events) of `message.updated` triggers)
 
 ## Learn more
 
