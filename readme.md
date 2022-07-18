@@ -42,4 +42,4 @@ Run the serverless function as follows:
 
 ## Learn more
 
-Visit our [Nylas Node.js SDK documentation](https://developer.nylas.com/docs/developer-tools/sdk/node-sdk/) to learn more.
+Visit our [Nylas documentation](https://developer.nylas.com/docs/developer-tools/webhooks/) to learn more.
